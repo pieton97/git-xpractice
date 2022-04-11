@@ -1,4 +1,4 @@
 console.log('configg.js');
-console.log('version11');
+console.log('version12a');
 console.log('hellos');
 
